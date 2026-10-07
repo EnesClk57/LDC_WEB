@@ -1,0 +1,33 @@
+nom_equipe,pays_equipe,nb_matchs_joues,nb_victoires,nb_matchs_nuls,nb_defaites,nb_tirs,nb_tirs_cadrees,nb_tirs_non_cadrees,nb_tirs_bloquees
+Barcelona,Espagne,13,11,0,2,13,11,0,2
+Juventus,Italie,13,7,3,3,13,7,3,3
+Real Madrid,Espagne,12,8,2,2,12,8,2,2
+Bayern München,Allemagne,12,8,1,3,12,8,1,3
+Porto,Portugal,10,6,3,1,10,6,3,1
+Atleti,Espagne,10,5,2,3,10,5,2,3
+Paris,France,10,4,3,3,10,4,3,3
+Monaco,France,10,4,3,3,10,4,3,3
+Arsenal,Angleterre,8,5,1,2,8,5,1,2
+Chelsea,Angleterre,8,4,4,0,8,4,4,0
+B. Dortmund,Allemagne,8,4,1,3,8,4,1,3
+Leverkusen,Allemagne,8,4,1,3,8,4,1,3
+Schalke,Allemagne,8,3,2,3,8,3,2,3
+Shakhtar,Ukraine,8,2,4,2,8,2,4,2
+Basel,Suisse,8,2,2,4,8,2,2,4
+Man City,Angleterre,8,2,2,4,8,2,2,4
+Olympiacos,Grèce,6,3,0,3,6,3,0,3
+Zenit,Russie,6,2,1,3,6,2,1,3
+Sporting CP,Portugal,6,2,1,3,6,2,1,3
+Athletic Club,Espagne,6,2,1,3,6,2,1,3
+Anderlecht,Belgique,6,1,3,2,6,1,3,2
+Liverpool,Angleterre,6,1,2,3,6,1,2,3
+CSKA Moskva,Russie,6,1,2,3,6,1,2,3
+Benfica,Portugal,6,1,2,3,6,1,2,3
+Ajax,Pays-Bas,6,1,2,3,6,1,2,3
+Roma,Italie,6,1,2,3,6,1,2,3
+Ludogorets,Bulgarie,6,1,1,4,6,1,1,4
+BATE Borisov,Bélarus,6,1,0,5,6,1,0,5
+Malmö,Suède,6,1,0,5,6,1,0,5
+Maribor,Slovénie,6,0,3,3,6,0,3,3
+APOEL,Chypre,6,0,1,5,6,0,1,5
+Galatasaray,Turquie,6,0,1,5,6,0,1,5

@@ -1,0 +1,37 @@
+nom_equipe,pays_equipe,nb_matchs_joues,nb_victoires,nb_matchs_nuls,nb_defaites,nb_tirs,nb_tirs_cadrees,nb_tirs_non_cadrees,nb_tirs_bloquees,nb_buts_total,pied_droit,pied_gauche,tete,autre,nb_buts_interieur_surface,nb_buts_exterieur_surface,nb_buts_penalty
+Paris,France,17,11,1,5,323,119,114,90,38,22,13,2,0,33,4,1
+Inter,Italie,15,10,3,2,182,64,74,44,26,17,5,2,0,24,1,5
+Arsenal,Angleterre,14,9,2,3,184,84,52,48,31,10,14,6,0,24,6,2
+Barcelona,Espagne,14,9,2,3,223,98,73,52,43,15,17,7,1,33,7,3
+B. Dortmund,Allemagne,14,8,2,4,198,82,74,42,31,18,9,3,1,27,4,7
+Bayern München,Allemagne,14,8,2,4,285,107,92,86,31,12,11,8,0,30,1,5
+Real Madrid,Espagne,14,8,0,6,216,86,72,58,29,18,9,2,0,26,3,1
+Aston Villa,Angleterre,12,8,1,3,153,63,56,34,23,12,10,0,0,16,6,1
+PSV,Pays-Bas,12,5,3,4,205,76,70,59,23,13,7,2,0,16,6,1
+Feyenoord,Pays-Bas,12,5,2,5,125,46,54,25,21,9,6,3,1,17,2,2
+Benfica,Portugal,12,5,2,5,172,69,46,57,21,13,2,4,1,19,1,4
+Club Brugge,Belgique,12,5,2,5,123,45,48,30,13,9,2,0,0,10,1,2
+Liverpool,Angleterre,10,8,0,2,149,60,58,31,18,7,7,4,0,16,2,2
+Atleti,Espagne,10,7,0,3,122,47,48,27,22,14,6,2,0,20,2,0
+Lille,France,10,5,2,3,96,39,39,18,19,8,8,1,0,16,1,2
+Leverkusen,Allemagne,10,5,1,4,151,56,56,39,15,6,7,1,0,11,3,1
+Milan,Italie,10,5,1,4,152,61,48,43,15,9,4,2,0,14,1,0
+Atalanta,Italie,10,4,3,3,176,65,70,41,22,9,9,3,1,20,2,1
+Juventus,Italie,10,4,3,3,116,37,48,31,12,7,4,1,0,10,2,1
+Monaco,France,10,4,2,4,119,45,42,32,16,10,4,2,0,14,2,1
+Brest,France,10,4,1,5,130,39,56,35,10,7,2,0,0,6,3,0
+Celtic,Écosse,10,3,4,3,96,40,35,21,15,7,3,2,2,13,1,1
+Sporting CP,Portugal,10,3,3,4,125,43,47,35,13,8,5,0,0,12,1,2
+Man City,Angleterre,10,3,2,5,172,63,49,60,21,8,10,1,0,17,3,3
+GNK Dinamo,Croatie,8,3,2,3,76,25,28,23,12,5,6,1,0,9,3,0
+Stuttgart,Allemagne,8,3,1,4,141,47,48,46,13,7,3,2,0,10,2,0
+Shakhtar,Ukraine,8,2,1,5,76,22,29,25,8,7,1,0,0,7,1,1
+Sturm Graz,Autriche,8,2,0,6,66,23,27,16,5,2,2,0,0,4,0,0
+Crvena Zvezda,Serbie,8,2,0,6,96,31,40,25,13,7,3,3,0,10,3,1
+Bologna,Italie,8,1,3,4,93,27,38,28,4,2,1,1,0,4,0,0
+Sparta Praha,Tchéquie,8,1,1,6,74,21,32,21,7,2,4,0,0,5,1,0
+Salzburg,Autriche,8,1,0,7,75,20,27,28,5,0,4,1,0,4,1,0
+Leipzig,Allemagne,8,1,0,7,102,36,38,28,8,4,2,2,0,8,0,1
+Girona,Espagne,8,1,0,7,80,29,27,24,5,3,2,0,0,3,2,0
+S. Bratislava,Slovaquie,8,0,0,8,63,17,28,18,7,2,5,0,0,6,1,1
+Young Boys,Suisse,8,0,0,8,81,18,38,25,3,1,1,1,0,1,2,0

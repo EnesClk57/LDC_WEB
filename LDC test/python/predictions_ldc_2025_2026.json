@@ -1,0 +1,144 @@
+{
+  "season": "2025-2026",
+  "model_accuracy": "61.60%",
+  "champion": "Chelsea",
+  "huitiemes": [
+    {
+      "team1": "Barcelona",
+      "team2": "Arsenal",
+      "aller": "3-2",
+      "retour": "4-0",
+      "total": "7-2",
+      "winner": "Barcelona",
+      "confidence": "78.8%"
+    },
+    {
+      "team1": "Frankfurt",
+      "team2": "Bayern München",
+      "aller": "0-5",
+      "retour": "0-1",
+      "total": "0-6",
+      "winner": "Bayern München",
+      "confidence": "95.6%"
+    },
+    {
+      "team1": "Club Brugge",
+      "team2": "B. Dortmund",
+      "aller": "0-2",
+      "retour": "0-5",
+      "total": "0-7",
+      "winner": "B. Dortmund",
+      "confidence": "95.1%"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Galatasaray",
+      "aller": "2-0",
+      "retour": "0-0",
+      "total": "2-0",
+      "winner": "Atalanta",
+      "confidence": "72.5%"
+    },
+    {
+      "team1": "Atleti",
+      "team2": "Ajax",
+      "aller": "1-2",
+      "retour": "2-3",
+      "total": "3-5",
+      "winner": "Ajax",
+      "confidence": "88.7%"
+    },
+    {
+      "team1": "Copenhagen",
+      "team2": "Athletic Club",
+      "aller": "2-0",
+      "retour": "0-1",
+      "total": "2-1",
+      "winner": "Copenhagen",
+      "confidence": "56.8%"
+    },
+    {
+      "team1": "Bodø/Glimt",
+      "team2": "Benfica",
+      "aller": "1-1",
+      "retour": "3-2",
+      "total": "4-3",
+      "winner": "Bodø/Glimt",
+      "confidence": "65.1%"
+    },
+    {
+      "team1": "Chelsea",
+      "team2": "Inter",
+      "aller": "4-0",
+      "retour": "1-2",
+      "total": "5-2",
+      "winner": "Chelsea",
+      "confidence": "77.1%"
+    }
+  ],
+  "quarts": [
+    {
+      "team1": "Barcelona",
+      "team2": "Bayern München",
+      "aller": "2-3",
+      "retour": "0-9",
+      "total": "2-12",
+      "winner": "Bayern München",
+      "confidence": "75.3%"
+    },
+    {
+      "team1": "B. Dortmund",
+      "team2": "Atalanta",
+      "aller": "2-1",
+      "retour": "0-1",
+      "total": "2-2",
+      "winner": "B. Dortmund",
+      "confidence": "83.8%"
+    },
+    {
+      "team1": "Ajax",
+      "team2": "Copenhagen",
+      "aller": "2-2",
+      "retour": "3-0",
+      "total": "5-2",
+      "winner": "Ajax",
+      "confidence": "83.3%"
+    },
+    {
+      "team1": "Bodø/Glimt",
+      "team2": "Chelsea",
+      "aller": "1-3",
+      "retour": "1-4",
+      "total": "2-7",
+      "winner": "Chelsea",
+      "confidence": "94.4%"
+    }
+  ],
+  "demi_finales": [
+    {
+      "team1": "Bayern München",
+      "team2": "B. Dortmund",
+      "aller": "1-5",
+      "retour": "4-1",
+      "total": "5-6",
+      "winner": "B. Dortmund",
+      "confidence": "81.9%"
+    },
+    {
+      "team1": "Ajax",
+      "team2": "Chelsea",
+      "aller": "0-3",
+      "retour": "1-5",
+      "total": "1-8",
+      "winner": "Chelsea",
+      "confidence": "99.4%"
+    }
+  ],
+  "finale": {
+    "team1": "B. Dortmund",
+    "team2": "Chelsea",
+    "score": "1-1",
+    "winner": "Chelsea",
+    "confidence": "82.4%"
+  }
+}

@@ -1,0 +1,33 @@
+nom_equipe,pays_equipe,nb_matchs_joues,nb_victoires,nb_matchs_nuls,nb_defaites,nb_tirs,nb_tirs_cadrees,nb_tirs_non_cadrees,nb_tirs_bloquees
+Real Madrid,Espagne,13,9,3,1,226,94,99,79
+Atleti,Espagne,13,6,4,3,181,76,73,47
+Bayern München,Allemagne,12,8,2,2,210,105,95,61
+Man City,Angleterre,12,6,3,3,147,51,73,36
+Barcelona,Espagne,10,7,2,1,129,62,60,45
+Wolfsburg,Allemagne,10,7,0,3,100,48,52,26
+Paris,France,10,6,2,2,104,55,52,27
+Benfica,Portugal,10,5,2,3,118,54,47,34
+Zenit,Russie,8,5,0,3,65,37,30,17
+Chelsea,Angleterre,8,4,1,3,84,48,35,29
+Dynamo Kyiv,Ukraine,8,3,3,2,69,37,37,23
+Juventus,Italie,8,3,3,2,121,45,52,34
+PSV,Pays-Bas,8,3,3,2,65,28,26,17
+Gent,Belgique,8,3,1,4,65,40,23,21
+Arsenal,Angleterre,8,3,0,5,71,42,32,28
+Roma,Italie,8,1,3,4,80,43,39,28
+Porto,Portugal,6,3,1,2,60,29,32,28
+Olympiacos,Grèce,6,3,0,3,55,24,33,15
+Man Utd,Angleterre,6,2,2,2,51,34,24,23
+Sevilla,Espagne,6,2,0,4,57,23,33,20
+Valencia,Espagne,6,2,0,4,53,21,34,18
+Leverkusen,Allemagne,6,1,3,2,68,42,28,28
+BATE Borisov,Bélarus,6,1,2,3,23,16,11,13
+Mönchengladbach,Allemagne,6,1,2,3,78,31,31,25
+Galatasaray,Turquie,6,1,2,3,54,29,37,23
+CSKA Moskva,Russie,6,1,1,4,47,18,18,19
+Lyon,France,6,1,1,4,71,32,44,33
+Shakhtar,Ukraine,6,1,0,5,58,25,34,22
+GNK Dinamo,Croatie,6,1,0,5,36,16,22,18
+Malmö,Suède,6,1,0,5,34,17,20,6
+Astana,Kazakhstan,6,0,4,2,47,25,39,13
+M. Tel-Aviv,Israël,6,0,0,6,38,12,28,13

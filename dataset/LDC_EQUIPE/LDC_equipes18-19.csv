@@ -1,0 +1,33 @@
+nom_equipe,pays_equipe,nb_matchs_joues,nb_victoires,nb_matchs_nuls,nb_defaites,nb_tirs,nb_tirs_cadrees,nb_tirs_non_cadrees,nb_tirs_bloquees
+Liverpool,Angleterre,13,8,1,4,186,57,78,51
+Tottenham,Angleterre,13,6,2,5,199,73,65,61
+Barcelona,Espagne,12,8,3,1,199,77,74,48
+Ajax,Pays-Bas,12,6,4,2,185,70,70,45
+Man City,Angleterre,10,7,1,2,181,70,70,41
+Porto,Portugal,10,6,1,3,120,54,53,27
+Juventus,Italie,10,5,1,4,151,43,68,40
+Man Utd,Angleterre,10,4,1,5,118,32,48,38
+Atleti,Espagne,8,5,1,2,87,30,38,19
+Real Madrid,Espagne,8,5,0,3,151,55,66,30
+Bayern München,Allemagne,8,4,3,1,109,45,37,27
+Paris,France,8,4,2,2,108,57,37,23
+B. Dortmund,Allemagne,8,4,1,3,94,32,38,24
+Roma,Italie,8,4,0,4,128,55,47,26
+Schalke,Allemagne,8,3,2,3,82,27,27,28
+Lyon,France,8,1,6,1,116,41,43,32
+Napoli,Italie,6,2,3,1,74,32,42,20
+Valencia,Espagne,6,2,2,2,71,18,31,22
+Inter,Italie,6,2,2,2,92,27,37,28
+Viktoria Plzeň,Tchéquie,6,2,1,3,68,21,28,19
+CSKA Moskva,Russie,6,2,1,3,77,30,27,20
+Benfica,Portugal,6,2,1,3,80,32,35,13
+Shakhtar,Ukraine,6,1,3,2,71,26,28,17
+Club Brugge,Belgique,6,1,3,2,48,16,22,10
+Crvena Zvezda,Serbie,6,1,1,4,43,16,18,9
+Galatasaray,Turquie,6,1,1,4,71,22,31,18
+Young Boys,Suisse,6,1,1,4,70,16,33,21
+Lokomotiv Moskva,Russie,6,1,0,5,61,16,32,29
+Hoffenheim,Allemagne,6,0,3,3,92,32,38,22
+PSV,Pays-Bas,6,0,2,4,74,26,32,16
+Monaco,France,6,0,1,5,60,17,31,12
+AEK Athens,Grèce,6,0,0,6,37,9,17,11

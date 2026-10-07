@@ -1,0 +1,33 @@
+nom_equipe,pays_equipe,nb_matchs_joues,nb_victoires,nb_matchs_nuls,nb_defaites,nb_tirs,nb_tirs_cadrees,nb_tirs_non_cadrees,nb_tirs_bloquees
+Man City,Angleterre,13,11,1,1,170,73,56,41
+Chelsea,Angleterre,13,9,3,1,146,59,53,34
+Real Madrid,Espagne,12,6,3,3,163,63,49,51
+Paris,France,12,6,1,5,145,51,53,41
+Bayern München,Allemagne,10,8,1,1,166,61,59,46
+Liverpool,Angleterre,10,6,2,2,110,42,45,23
+Porto,Portugal,10,6,1,3,84,38,31,15
+B. Dortmund,Allemagne,10,5,2,3,122,53,43,26
+Juventus,Italie,8,6,0,2,123,49,41,33
+Barcelona,Espagne,8,5,1,2,143,62,49,32
+Sevilla,Espagne,8,4,2,2,131,50,42,39
+Leipzig,Allemagne,8,4,0,4,102,33,45,24
+Atalanta,Italie,8,3,2,3,91,41,35,15
+Lazio,Italie,8,2,4,2,93,39,31,23
+Atleti,Espagne,8,2,3,3,96,31,42,23
+Mönchengladbach,Allemagne,8,2,2,4,75,32,29,14
+Man Utd,Angleterre,6,3,0,3,84,36,24,24
+Shakhtar,Ukraine,6,2,2,2,41,18,15,8
+Club Brugge,Belgique,6,2,2,2,56,18,22,16
+Ajax,Pays-Bas,6,2,1,3,72,30,25,17
+Inter,Italie,6,1,3,2,82,20,36,26
+Krasnodar,Russie,6,1,2,3,65,18,23,24
+Dynamo Kyiv,Ukraine,6,1,1,4,44,21,15,8
+Salzburg,Autriche,6,1,1,4,104,41,37,26
+Marseille,France,6,1,0,5,49,13,30,6
+Olympiacos,Grèce,6,1,0,5,45,10,17,18
+Başakşehir,Turquie,6,1,0,5,66,22,31,13
+Lokomotiv Moskva,Russie,6,0,3,3,40,16,12,12
+Midtjylland,Danemark,6,0,2,4,62,23,28,11
+Rennes,France,6,0,1,5,72,27,26,19
+Zenit,Russie,6,0,1,5,55,15,22,18
+Ferencváros,Hongrie,6,0,1,5,59,15,30,14
